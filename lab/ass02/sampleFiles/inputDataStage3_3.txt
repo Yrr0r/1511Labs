@@ -1,0 +1,13 @@
+100 0.0 0.1
+0 1 0.5
+FB
+N
+FM
+M
+FK
+K
+FN[++++B]
+B
+NF[++++NFFBL][-------NFBL]
+L
+GGGGGGrrrrr[--F++F++F][++F--F--F]

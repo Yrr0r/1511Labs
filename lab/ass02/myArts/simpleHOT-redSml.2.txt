@@ -1,0 +1,21 @@
+15 0.0 0.7853
+1 0 0
+SxUxPxExRx--xxxxx++HxOxT
+x
+^^^^^^^^^^
+S
+,<++FF--FF--FF++FF++FF>--^^.
+U
+<[FFFF]++FF--FFFF>^^
+P
+[FFFF++FF++FF++FF]^^
+E
+[FF<FF++FF>FF]++FF--
+R
+[FFFF++FF++FF++FF---FFF]^^
+H
+[FF<FF>++FF<--FF>++++FF]^^
+O
+[FFFF++FF++FFFF++FF]^^
+T
+^FFFF[++F]--F

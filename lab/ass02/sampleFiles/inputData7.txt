@@ -1,0 +1,17 @@
+10.5 0.3 0.7853981633974483
+0 0.2 1
+FRBC
+R
+RRRG
+F
+F+F+F+F+F+F+F+F
++
+++
+R
+RR
+B
+BRB
+C
+F+Fg
+g
+ggg-

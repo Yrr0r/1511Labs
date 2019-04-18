@@ -1,0 +1,17 @@
+Enter t: Enter n: Enter 5 by 5 forest:
+Enter wind information size: Enter wind direction information:
+Enter lightning information:
+
+Time step 0: Wind SOUTH
+     a b c d e 
+   # # # # # # # 
+ 0 # ^ ^ ^ . . #
+ 1 # * ^ ^ * * #
+ 2 # ^ * ^ * * #
+ 3 # * . . * * #
+ 4 # . * * * * #
+   # # # # # # # 
+
+Number of cells containing trees in initial forest = 20
+Number of cells that have burned down = 0
+Percentage of forest burned down = 0.00

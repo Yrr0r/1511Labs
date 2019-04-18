@@ -1,0 +1,20 @@
+max_cpu=5
+files=ass1.c
+ignore_case=1
+ignore_white_space=1
+no_reproduce_command=1
+command=./ass1
+
+1 description="./ass1 < stage0Data1.txt" stdin_file="stage0Data1.txt"
+2 description="./ass1 < stage0Data2.txt" stdin_file="stage0Data2.txt" 
+3 description="./ass1 < stage0Data3.txt" stdin_file="stage0Data3.txt"
+4 description="./ass1 < stage1Data1.txt" stdin_file="stage1Data1.txt"
+5 description="./ass1 < stage1Data2.txt" stdin_file="stage1Data2.txt"
+6 description="./ass1 < stage1Data3.txt" stdin_file="stage1Data3.txt"
+7 description="./ass1 < stage2Data1.txt" stdin_file="stage2Data1.txt"
+8 description="./ass1 < stage2Data2.txt" stdin_file="stage2Data2.txt"
+9 description="./ass1 < stage2Data3.txt" stdin_file="stage2Data3.txt"
+10 description="./ass1 < stage3Data1.txt" stdin_file="stage3Data1.txt"
+11 description="./ass1 < stage3Data2.txt" stdin_file="stage3Data2.txt"
+12 description="./ass1 < stage3Data3.txt" stdin_file="stage3Data3.txt"
+

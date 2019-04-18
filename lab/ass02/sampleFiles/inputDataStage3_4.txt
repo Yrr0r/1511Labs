@@ -1,0 +1,8 @@
+100 0.0 0.7853981633974483 
+1 0.5 0
+[F+F+F+F+rrFBBBB+F+F+F+F]
+F
+[GGBBBF+rrBBRRF+F+FBB+FBGGGG+F+rBF+F+F]w
+w
+[fffffffFfffff]
+

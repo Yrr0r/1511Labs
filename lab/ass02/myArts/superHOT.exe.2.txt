@@ -1,0 +1,33 @@
+15 0.0 0.7853
+1 1 0
+SySySxUyUyUxPyPyPxEyEyExRyRyRx--xx++HyHyHxOyOyOxTyTyT
+F
+rGbbF
+x
+hashbrown
+y
+--f+f+
+S
+,<++sand--sand--sand++sand++sand>--.
+U
+<[fire]++sand--fire>
+P
+[fire++sand++sand++sand]
+E
+,[sand<sand++sand>sand]++sand----sand.
+R
+[fire++sand++sand++sand---sandwater]
+H
+[sand<sand>++sand<--sand>++++sand]
+O
+[fire++sand++fire++sand]
+T
+^fire[++water]--water]----fire^----
+hashbrown
+^^^^^^^^^^^^^^^^^^
+fire
+sandsand
+sand 
+waterwater
+water
+FFFF

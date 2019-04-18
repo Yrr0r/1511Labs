@@ -1,0 +1,9 @@
+30 0.3 0.3
+0 1 0
+T
+T
+FF[++FFB][+FFB][FFB][-FFB][--FFB]
+B
+[+FL][FL][-FL]
+L
+F[-F+F+F][+F-F-F]
